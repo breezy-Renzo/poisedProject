@@ -1,0 +1,12 @@
+ProjectNumber,ProjectName,BuildType,Address,ERF,Fee,AmountPaid,Deadline,Completed
+CustomerName,Tele,Email,Address
+ArchitectName varchar(50), Tele varchar(11), Email varchar(50), Address varchar(50)
+PrjtManagerName varchar(50),Tele varchar(11), Email varchar(50), Address varchar(50)
+'14-ABC-0455',MikeHouses,Apartment,Home,34445,50000.0,10000.0,2023/07/21,false
+'Mike Tyson', '0683452378', 'tyson@gmail.com', 'Tyson house'
+'Cleo Campbell', '0683671267', 'campbell@gmail.com', 'Campbell house'
+'Bailey Clark', '0723513274', 'clark@gmail.com', 'Clark house'
+'14-ABC-0365',MartinHouse,Mansion,House,34567,1000000.0,40000.0,2023/07/21,true
+'Martin Smith', '072345673', 'smith@gmail.com', 'Smith house'
+'Garcia Brown', '0783413274', 'brown@gmail.com', 'Brown house'
+'Bailey Clark', '0723513274', 'clark@gmail.com', 'Clark house'
